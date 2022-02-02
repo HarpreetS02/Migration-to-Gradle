@@ -1,0 +1,5 @@
+/target/
+/.idea
+/test-output
+/.settings
+/.metadata
